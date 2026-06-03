@@ -36,6 +36,16 @@ Hi, I'm **hvhinvestor**. I upload my projects here — stuff I used to sell, plu
   <img src="https://skillicons.dev/icons?i=lua,cpp,visualstudio,git,github&theme=dark" alt="tech stack" />
 </p>
 
+<p align="center">
+  <img src="https://cdn.simpleicons.org/claude/D97757" height="34" alt="claude" />
+  &nbsp;&nbsp;
+  <img src="https://cdn.simpleicons.org/openai/FFFFFF" height="34" alt="codex" />
+</p>
+
+<p align="center">
+  <sub>built with <b>Claude</b> &amp; <b>Codex</b></sub>
+</p>
+
 ---
 
 ### 📫 Contacts

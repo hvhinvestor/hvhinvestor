@@ -43,7 +43,7 @@ Hi, I'm **hvhinvestor**. I upload my projects here — stuff I used to sell, plu
 <p align="center">
   <a href="https://discord.com/users/hvhinvestor"><img src="https://skillicons.dev/icons?i=discord&theme=dark" height="42" alt="discord" /></a>
   &nbsp;&nbsp;
-  <a href="https://t.me/hvhinvest0r"><img src="https://skillicons.dev/icons?i=telegram&theme=dark" height="42" alt="telegram" /></a>
+  <a href="https://t.me/hvhinvest0r"><img src="https://cdn.simpleicons.org/telegram/229ED9" height="38" alt="telegram" /></a>
 </p>
 
 <p align="center">

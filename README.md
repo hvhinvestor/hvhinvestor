@@ -39,7 +39,7 @@ Hi, I'm **hvhinvestor**. I upload my projects here — stuff I used to sell, plu
 <p align="center">
   <img src="https://cdn.simpleicons.org/claude/D97757" height="34" alt="claude" />
   &nbsp;&nbsp;
-  <img src="https://cdn.simpleicons.org/openai/10A37F" height="34" alt="codex" />
+  <img src="https://upload.wikimedia.org/wikipedia/commons/0/04/ChatGPT_logo.svg" height="34" alt="chatgpt" />
 </p>
 
 ---
